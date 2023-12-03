@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GwadaDLT
 - 👀 I’m interested in Machine Learning, Python, blockchain, and cryptography.
 - 🌱 I’m currently learning Machine Learning, Haskell and Plutus.
-- 💞️ I’m looking to collaborate on Plutus
+- 💞️ I’m looking to collaborate on Plutus and automatic translation project
 - 📫 How to reach me 
 
 <!---
