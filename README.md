@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Python, blockchain, and cryptography.
 - 🌱 I’m currently learning Machine Learning, Haskell and Plutus.
 - 💞️ I’m looking to collaborate on Plutus and automatic translation project
-- 📫 How to reach me 
+- 📫 How to reach me : reach out to GwadaDLT/brdcie.com
 
 <!---
 GwadaDLT/GwadaDLT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
